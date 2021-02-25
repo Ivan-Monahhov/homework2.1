@@ -8,6 +8,7 @@ import { ProductsComponent } from './products/products.component';
 import { TeamComponent } from './team/team.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ContactComponent } from './contact/contact.component';
+import { ClickyComponent } from './clicky/clicky.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ContactComponent } from './contact/contact.component';
     ProductsComponent,
     TeamComponent,
     NavbarComponent,
-    ContactComponent
+    ContactComponent,
+    ClickyComponent
   ],
   imports: [
     BrowserModule,

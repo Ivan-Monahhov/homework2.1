@@ -1,0 +1,19 @@
+li{
+  float: left;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0b2e13;
+}
+li a{
+  display: flex;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  color: #6f42c1;
+}

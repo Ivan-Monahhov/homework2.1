@@ -1,0 +1,17 @@
+.yellow.red.blue.green{
+  width: 500px;
+  height: 100px;
+}
+
+.yellow{
+  color: yellow;
+}
+.red{
+  color: red;
+}
+.green{
+  color: green;
+}
+.blue{
+  color: blue;
+}
