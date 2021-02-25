@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { ShopComponent } from './shop/shop.component';
 import { ProductsComponent } from './products/products.component';
 import { TeamComponent } from './team/team.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ShopComponent,
     ProductsComponent,
-    TeamComponent
+    TeamComponent,
+    NavbarComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
